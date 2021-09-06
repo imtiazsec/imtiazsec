@@ -1,4 +1,4 @@
-# Hi, I'm Imtiaz 👋
+# Hi, I'm Imtiaz <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from Bangladesh.
 
@@ -20,8 +20,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> </p>
 
-
-## Hi, I am Hanshul! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## About Me
 
 I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [Shoolini University](http://shooliniuniversity.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
