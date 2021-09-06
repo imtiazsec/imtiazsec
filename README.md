@@ -2,7 +2,7 @@
 
 ### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from Bangladesh.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://tenor.com/view/wrench-watchdogs2-mask-gif-7471561">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench-watchdogs2.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
