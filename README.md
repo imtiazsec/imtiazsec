@@ -28,7 +28,7 @@ I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech en
 [![Gmail Badge](https://img.shields.io/badge/-0ximtiaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0ximtiaz@gmail.com)](mailto:0ximtiaz@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://0ximtiaz.github.io/)
 
-[![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
+[![0ximtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
 
 
 ## ⚡ Technologies
