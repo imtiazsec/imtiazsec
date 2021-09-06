@@ -23,7 +23,7 @@ I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech en
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
-[![Linkedin Badge](https://img.shields.io/badge/-Hanshulll-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/0ximtiaz/)](https://www.linkedin.com/in/hanshul-chandel/)
+[![Linkedin Badge](https://img.shields.io/badge/-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/0ximtiaz/)](https://www.linkedin.com/in/)
 [![Instagram Badge](https://img.shields.io/badge/-hanshulll-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/0ximtiaz/)](https://instagram.com/hanshulll)
 [![Gmail Badge](https://img.shields.io/badge/-hanshul.chandel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0ximtiaz@gmail.com)](mailto:hanshul.chandel@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://hanshulll.github.io/)
