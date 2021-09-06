@@ -30,11 +30,36 @@
 <a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='buymecoffee' /></a>
 </p>
 
-## &#x1f4c8; GitHub Stats
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+![0ximtiaz's github stats](https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ximtiaz&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://github.com/0ximtiaz/0ximtiaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ximtiaz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/0ximtiaz/0ximtiaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+🌆 Daytime    108 commits    ███████░░░░░░░░░░░░░░░░░░   31.21% 
+🌃 Evening    164 commits    ███████████░░░░░░░░░░░░░░   47.4% 
+🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
+
+```
+**I'm Most Productive on Sunday** 📅 
+
+```text
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
+Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
+Saturday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
+Sunday       86 commits     ██████░░░░░░░░░░░░░░░░░░░   25.9%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
+⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.95 % as on ⏰ 5-Sep-2021
