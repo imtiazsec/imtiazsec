@@ -42,13 +42,13 @@ I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [
 
 ## 💰 Support
 <p>
-<a href='https://www.buymeacoffee.com/hanshulll' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+<a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p>
 
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanshulll&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanshulll&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0ximtiaz&theme=tokyonight" />
 </p>
  
