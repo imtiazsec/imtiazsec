@@ -2,7 +2,7 @@
 
 ### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh.
 
-<img hight="50" width="500" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
+<img hight="20" width="500" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
 ### - Learning :
 - ✨ Bug Bounty Hunting
