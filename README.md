@@ -57,3 +57,7 @@ I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech en
     <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark&hide_border=true">
   </a>
 </p>
+
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a>
