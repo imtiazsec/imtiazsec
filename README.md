@@ -22,13 +22,13 @@
 I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [Shoolini University](http://shooliniuniversity.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-HanshulChandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanshul-chandel/)](https://www.linkedin.com/in/hanshul-chandel/)
-[![Linkedin Badge](https://img.shields.io/badge/-Hanshulll-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Hanshulll/)](https://www.linkedin.com/in/hanshul-chandel/)
-[![Instagram Badge](https://img.shields.io/badge/-hanshulll-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hanshulll/)](https://instagram.com/hanshulll)
-[![Gmail Badge](https://img.shields.io/badge/-hanshul.chandel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanshul.chandel@gmail.com)](mailto:hanshul.chandel@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://hanshulll.github.io/)](https://hanshulll.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-HanshulChandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/hanshul-chandel/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hanshulll-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/0ximtiaz/)](https://www.linkedin.com/in/hanshul-chandel/)
+[![Instagram Badge](https://img.shields.io/badge/-hanshulll-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/0ximtiaz/)](https://instagram.com/hanshulll)
+[![Gmail Badge](https://img.shields.io/badge/-hanshul.chandel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0ximtiaz@gmail.com)](mailto:hanshul.chandel@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://hanshulll.github.io/)
 
-[![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanshulll&theme=xcode)](https://git.io/hanshulll)
+[![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
 
 
 ## ⚡ Technologies
