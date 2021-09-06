@@ -18,8 +18,6 @@
 </br>
 </br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> </p>
-
 ## About Me
 
 I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [Shoolini University](http://shooliniuniversity.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
