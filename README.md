@@ -11,7 +11,7 @@
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Coding
+- ✨ Hacking
 
 </br>
 </br>
