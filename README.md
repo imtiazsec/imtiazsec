@@ -20,7 +20,7 @@
 ## About Me
 I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-### Social Media
+## Social Media
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
 <a href="https://github.com/0ximtiaz?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
 <a href="https://instagram.com/0ximtiaz"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
