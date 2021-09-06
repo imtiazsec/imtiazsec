@@ -30,7 +30,7 @@ I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech en
 
 [![0ximtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
 
-### Language :
+## Language :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
