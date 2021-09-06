@@ -40,6 +40,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
+  </p>
   
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
