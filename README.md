@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [Shoolini University](http://shooliniuniversity.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-HanshulChandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/hanshul-chandel/)
