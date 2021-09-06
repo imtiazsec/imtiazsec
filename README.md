@@ -7,12 +7,14 @@
 ### - Learning :
 - ✨ Bug Bounty Hunting
 - ✨ Penetration Testing
+- ✨ Cyber Security
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Hacking
 
+</br>
 </br>
 
 ## About Me
