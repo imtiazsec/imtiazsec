@@ -21,14 +21,12 @@
 I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 ### Social Media
-<a href="https://twitter.com/R0X4R/"><img src="https://img.shields.io/badge/twitter-%40R0X4R-blue.svg"></a>
-<a href="https://github.com/R0X4R?tab=followers"><img src="https://img.shields.io/badge/github-%40R0X4R-orange"></a>
-<a href="https://instagram.com/indianeshansingh"><img src="https://img.shields.io/badge/instagram-%40indianeshansingh-yellow"></a>
-<a href="https://eshansingh.com/"><img src="https://img.shields.io/badge/web-eshansingh.in-brightgreen"></a>
-<a href="https://www.youtube.com/EshanSingh"><img src="https://img.shields.io/static/v1?label=Youtube&message=%40EshanSingh&color=critical"></a>
-<a href="https://www.linkedin.com/in/r0x4r/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%40r0x4r&color=blueviolet"></a>
-<a href="https://medium.com/@R0X4R"><img src="https://img.shields.io/static/v1?label=Medium&message=%40R0X4R&color=ff69b4"></a>
-<a href="https://ko-fi.com/r0x4r"><img src="https://img.shields.io/badge/$%20support%20me%20-donate-red"></a>
+<a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
+<a href="https://github.com/0ximtiaz?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
+<a href="https://instagram.com/0ximtiaz"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
+<a href="https://www.youtube.com/0ximtiaz"><img src="https://img.shields.io/static/v1?label=Youtube&message=%400ximtiaz&color=critical"></a>
+<a href="https://www.linkedin.com/in/0ximtiaz/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
+<a href="https://medium.com/@0ximtiaz"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
 
 [![0ximtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
 
