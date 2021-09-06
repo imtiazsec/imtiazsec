@@ -21,17 +21,12 @@
 
 I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-0ximtiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/)
-[![Linkedin Badge](https://img.shields.io/badge/-0ximtiaz-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/0ximtiaz)
+[![Twitter Badge](https://img.shields.io/badge/-0ximtiaz-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/0ximtiaz)
 [![Instagram Badge](https://img.shields.io/badge/-0ximtiaz-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com)](https://instagram.com/0ximtiaz)
 [![Gmail Badge](https://img.shields.io/badge/-0ximtiaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0ximtiaz@gmail.com)](mailto:0ximtiaz@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://0ximtiaz.github.io/)
 
 [![0ximtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
-
-
-## ⚡ Technologies
 
 ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
