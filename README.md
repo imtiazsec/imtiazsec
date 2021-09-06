@@ -23,10 +23,10 @@ I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech en
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/)
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com)](https://twitter.com)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/0ximtiaz)
 [![Instagram Badge](https://img.shields.io/badge/-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com)](https://instagram.com/0ximtiaz)
 [![Gmail Badge](https://img.shields.io/badge/-0ximtiaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0ximtiaz@gmail.com)](mailto:0ximtiaz@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://hanshulll.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://0ximtiaz.github.io/)
 
 [![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
 
