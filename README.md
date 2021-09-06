@@ -18,22 +18,23 @@
 </br>
 
 ## About Me
-
 I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Twitter Badge](https://img.shields.io/badge/-0ximtiaz-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/0ximtiaz)
-[![Instagram Badge](https://img.shields.io/badge/-0ximtiaz-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com)](https://instagram.com/0ximtiaz)
-[![Gmail Badge](https://img.shields.io/badge/-0ximtiaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0ximtiaz@gmail.com)](mailto:0ximtiaz@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://0ximtiaz.github.io/)](https://0ximtiaz.github.io/)
+### Social Media
+<a href="https://twitter.com/R0X4R/"><img src="https://img.shields.io/badge/twitter-%40R0X4R-blue.svg"></a>
+<a href="https://github.com/R0X4R?tab=followers"><img src="https://img.shields.io/badge/github-%40R0X4R-orange"></a>
+<a href="https://instagram.com/indianeshansingh"><img src="https://img.shields.io/badge/instagram-%40indianeshansingh-yellow"></a>
+<a href="https://eshansingh.com/"><img src="https://img.shields.io/badge/web-eshansingh.in-brightgreen"></a>
+<a href="https://www.youtube.com/EshanSingh"><img src="https://img.shields.io/static/v1?label=Youtube&message=%40EshanSingh&color=critical"></a>
+<a href="https://www.linkedin.com/in/r0x4r/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%40r0x4r&color=blueviolet"></a>
+<a href="https://medium.com/@R0X4R"><img src="https://img.shields.io/static/v1?label=Medium&message=%40R0X4R&color=ff69b4"></a>
+<a href="https://ko-fi.com/r0x4r"><img src="https://img.shields.io/badge/$%20support%20me%20-donate-red"></a>
 
 [![0ximtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=xcode)](https://git.io/0ximtiaz)
 
 ### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ## 💰 Support
 <p>
