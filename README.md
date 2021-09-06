@@ -41,7 +41,7 @@ I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [
 
 ## 💰 Support
 <p>
-<a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+<a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='buymecoffee' /></a>
 </p>
 
 ## 📈 Stats
