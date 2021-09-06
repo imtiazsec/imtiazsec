@@ -1,8 +1,5 @@
 # Konichiwa 👋
 
-</br>
-
-
 # About ME 💬 :
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
