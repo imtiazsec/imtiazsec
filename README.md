@@ -30,18 +30,6 @@
 <a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='buymecoffee' /></a>
 </p>
 
-<h1 align="center"> 📊 Stats: </h1>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
-  </a>
-  <br>
-  </p>
-  
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
