@@ -5,14 +5,13 @@
 <img hight="200" width="400" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench-watchdogs2.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Bug Bounty Hunting
+- ✨ Penetration Testing
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Coding
 
 </br>
 </br>
