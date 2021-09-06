@@ -41,7 +41,7 @@
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0ximtiaz&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
