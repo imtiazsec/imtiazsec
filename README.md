@@ -28,10 +28,6 @@ I am Imtiaz, currently pursuing my Bachelors in computer science. I am a tech en
 <a href="https://www.linkedin.com/in/0ximtiaz/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
 <a href="https://medium.com/@0ximtiaz"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
 
-## Language :
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
 ## 💰 Support
 <p>
 <a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='buymecoffee' /></a>
