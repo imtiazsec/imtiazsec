@@ -17,7 +17,7 @@
 </br>
 </br>
 
-## Talking about Personal Stuffs
+## Talking about Personal Stuffs :
 
 - I am a nerd with **poor programming skills (A waste 🌍).** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
@@ -27,7 +27,8 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-## Social Media
+## Social Media :
+<p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
 <a href="https://github.com/0ximtiaz?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
 <a href="https://instagram.com/0ximtiaz"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
@@ -35,7 +36,7 @@
 <a href="https://www.linkedin.com/in/0ximtiaz/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
 <a href="https://medium.com/@0ximtiaz"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
 
-## 💰 Support
+## 💰 Support :
 <p>
 <a href='https://www.buymeacoffee.com/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='buymecoffee' /></a>
 </p>
