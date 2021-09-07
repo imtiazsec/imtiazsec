@@ -20,13 +20,13 @@
 
 ## Talking about Personal Stuffs
 
-    I am a nerd with poor programming skills (A waste earth_africa).
-    I like to use a variety of useful computer software and build beautiful blog.
-    I also like literature, reading and writing.
-    I used to dream of being a writer.But the reality made me have to learn a technologycomputer,
-    and I also came into contact with programming.
-    Although I was not interested in it at the beginning,
-    luckily I slowly fell in love with it. heart
+- I am a nerd with **poor programming skills (A waste 🌍).** 
+- I like to use a variety of useful **computer software** and build  **beautiful blog.**
+- I also like **literature, reading and writing.** 
+- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
+- and I also came into contact with **programming**.
+- Although I was **not interested** in it at the beginning,
+- **luckily I slowly fell in love with it. ❤️**
 
 ## Social Media
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
