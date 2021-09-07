@@ -44,9 +44,12 @@
 </br>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![0ximtiaz's github stats](https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ximtiaz&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=xunzhuo&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
