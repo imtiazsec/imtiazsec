@@ -27,7 +27,7 @@
 - **luckily I slowly fell in love with it. ❤️**
 </br>
 
-<img hight="300" width="300" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
+<img hight="300" width="500" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
 ## Social Media :
 
