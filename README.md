@@ -1,7 +1,7 @@
 # Hi, I'm Imtiaz <img src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width="30px">
 
 ### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh:bangladesh:.
-<img hight="300" width="450" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench3.gif">
+<img hight="300" width="450" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
 ### - Learning :
 - ✨ Bug Bounty Hunting
@@ -26,8 +26,7 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 </br>
-
-<img hight="300" width="450" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
+</br>
 
 ## Social Media :
 
