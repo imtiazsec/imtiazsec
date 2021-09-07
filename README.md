@@ -24,7 +24,7 @@
 - and I also came into contact with **Hacking**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
-<img hight="300" width="400" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
+<img hight="400" width="500" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 </br>
 
 ## Social Media :
