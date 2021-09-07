@@ -17,6 +17,7 @@
 </br>
 
 ## Talking about Personal Stuffs :
+
 - I am a nerd with **poor programming skills.** :disappointed:
 - I like to use a variety of useful **computer software** & making **scripts in bash to automate processes.**
 - I also like **watching anime, and gaming.** 
@@ -26,7 +27,9 @@
 - **luckily I slowly fell in love with it. ❤️**
 </br>
 <img hight="300" width="400" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
+
 ## Social Media :
+
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
 </br>
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
@@ -39,6 +42,7 @@
 </br>
 
 ## 💰 Support :
+
 <a href="https://ko-fi.com/imtiaz"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </br>
 </br>
