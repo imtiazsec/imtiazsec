@@ -14,7 +14,6 @@
 - ✨ Hacking
 
 </br>
-</br>
 
 ## Talking about Personal Stuffs :
 
@@ -25,7 +24,6 @@
 - and I also came into contact with **Hacking**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
-</br>
 </br>
 
 ## Social Media :
@@ -39,12 +37,10 @@
 <a href="https://www.linkedin.com/in/0ximtiaz/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
 <a href="https://medium.com/@0ximtiaz"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
 </br>
-</br>
 
 ## 💰 Support :
 
 <a href="https://ko-fi.com/imtiaz"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-</br>
 </br>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
