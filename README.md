@@ -25,7 +25,6 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 <img hight="300" width="400" alt="GIF" align="left" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
-</br>
 
 ## Social Media :
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
