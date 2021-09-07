@@ -15,10 +15,8 @@
 
 </br>
 </br>
-</br>
 
 ## Talking about Personal Stuffs :
-
 - I am a nerd with **poor programming skills (A waste 🌍).** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
@@ -26,6 +24,7 @@
 - and I also came into contact with **programming**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
+</br>
 
 ## Social Media :
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
@@ -35,6 +34,7 @@
 <a href="https://www.youtube.com/0ximtiaz"><img src="https://img.shields.io/static/v1?label=Youtube&message=%400ximtiaz&color=critical"></a>
 <a href="https://www.linkedin.com/in/0ximtiaz/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
 <a href="https://medium.com/@0ximtiaz"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
+</br>
 
 ## 💰 Support :
 <p>
