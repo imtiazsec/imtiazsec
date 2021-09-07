@@ -1,7 +1,6 @@
 # Hi, I'm Imtiaz <img src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width="30px">
 
 ### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh.
-
 <img hight="300" width="400" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
 ### - Learning :
