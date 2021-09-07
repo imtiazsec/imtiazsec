@@ -45,37 +45,15 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0ximtiaz&theme=tokyonight" />
 </p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=github)
 
-<img src="https://github-profile-trophy.vercel.app/?username=xunzhuo&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=0ximtiaz&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 <!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-🌆 Daytime    6 commits      ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-🌃 Evening    15 commits     ███████████████░░░░░░░░░░   60.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesdays** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Wednesday    7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Friday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Saturday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Sunday       7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0%
-
-```
-
 
 📊 **This week I spent my time on** 
 
