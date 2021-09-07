@@ -16,7 +16,18 @@
 </br>
 </br>
 </br>
-## Talking about Personal Stuffs
+
+## Talking about Personal Stuffs:**
+
+- 👨‍🏛 I'm currently a student at **trash university**.
+- 💻 Major is big data technology and application.
+- 🌱 I'm currently learning **Web development and English**. 
+- 🤔 My hobbies are **playing chess and running**.
+- 💼 I am an **obsessive-compulsive disorder**.
+- 💬 If you have any questions, **just ask me**.
+- 📫 Please contact me via email:
+- QQ email: 1374051310@qq.com. 
+- Or Gmail:yzplove99@gmail.com.
 
 ## Social Media
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
