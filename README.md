@@ -20,7 +20,7 @@
 - I am a nerd with **poor programming skills.** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
+- I used to dream of being a Gamer:video_game.But **the reality made me have to learn a technology💻,**
 - and I also came into contact with **Hacking**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
