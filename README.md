@@ -18,7 +18,7 @@
 
 ## Talking about Personal Stuffs :
 - I am a nerd with **poor programming skills.** :disappointed:
-- I like to use a variety of useful **computer software** and making **scripts in bash.**
+- I like to use a variety of useful **computer software** & making **scripts in bash to automate processes.**
 - I also like **watching anime, and gaming.** 
 - I used to dream of being a gamer:video_game: .But **the reality made me have to learn a technology💻,**
 - and I also came into contact with **Hacking**.
