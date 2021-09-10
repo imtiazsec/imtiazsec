@@ -15,7 +15,7 @@
 
 </br>
 
-## :book:Talking about Personal Stuffs :
+## :book: Talking about Personal Stuffs :
 
 - I am a nerd with **poor programming skills.** :disappointed:
 - I like to use a variety of useful **computer software** & making **scripts in bash to automate processes.**
@@ -26,7 +26,7 @@
 - **luckily I slowly fell in love with it. ❤️**
 </br>
 
-## Social Media :
+## 📫 Social Media :
 
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
 </br>
