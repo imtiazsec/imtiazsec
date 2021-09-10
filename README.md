@@ -75,4 +75,4 @@ Linux                    25 hrs 32 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-![](https://komarev.com/ghpvc/?0ximtiaz=your-github-0ximtiaz&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-0ximtiaz&style=flat-square)
