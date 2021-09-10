@@ -1,5 +1,5 @@
 # Hi, I'm Imtiaz <img src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width="30px">
-
+![](https://komarev.com/ghpvc/?username=your-github-0ximtiaz&color=green)
 ### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh:bangladesh:.
 <img hight="300" width="450" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
@@ -30,7 +30,6 @@
 
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
 </br>
-![](https://komarev.com/ghpvc/?username=your-github-0ximtiaz&color=green)
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
 <a href="https://github.com/0ximtiaz?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
 <a href="https://instagram.com/0ximtiaz"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
