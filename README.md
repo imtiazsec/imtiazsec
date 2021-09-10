@@ -1,5 +1,4 @@
 # Hi, I'm Imtiaz <img src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=your-github-0ximtiaz&color=green)
 ### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh:bangladesh:.
 <img hight="300" width="450" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
