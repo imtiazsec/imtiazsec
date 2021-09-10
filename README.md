@@ -30,6 +30,7 @@
 
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
 </br>
+![](https://komarev.com/ghpvc/?username=your-github-0ximtiaz&color=green)
 <a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
 <a href="https://github.com/0ximtiaz?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
 <a href="https://instagram.com/0ximtiaz"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
@@ -75,4 +76,3 @@ Linux                    25 hrs 32 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-![](https://komarev.com/ghpvc/?username=your-github-0ximtiaz&style=flat-square)
