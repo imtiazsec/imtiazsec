@@ -15,7 +15,7 @@
 
 </br>
 
-## Talking about Personal Stuffs :
+## :book:Talking about Personal Stuffs :
 
 - I am a nerd with **poor programming skills.** :disappointed:
 - I like to use a variety of useful **computer software** & making **scripts in bash to automate processes.**
