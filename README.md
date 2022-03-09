@@ -13,8 +13,6 @@
 - ✨ Watching Anime
 - ✨ Hacking
 
-</br>
-
 ## :book: Talking about Personal Stuffs :
 
 - I am a nerd with **poor programming skills.** :disappointed:
