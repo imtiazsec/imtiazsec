@@ -1,6 +1,6 @@
 # Hi, I'm Imtiaz <img src="https://github.com/imtiazsec/imtiazsec/blob/main/wave.gif" width="30px">
 
-### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh:bangladesh:
+### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh: bangladesh:
 <img hight="200" width="350" alt="GIF" align="right" src="https://github.com/imtiazsec/imtiazsec/blob/main/wrench%20watchdog.gif">
 
 ### - Learning :
@@ -24,7 +24,6 @@
 - and I also came into contact with **Hacking**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
-</br>
 
 ## 📫 Social Media :
 
