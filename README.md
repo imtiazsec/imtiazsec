@@ -1,7 +1,7 @@
-# Hi, I'm Imtiaz <img src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width="30px">
+# Hi, I'm Imtiaz <img src="https://github.com/imtiazsec/imtiazsec/blob/main/wave.gif" width="30px">
 
 ### - I'm 20 years old Security Enthusist and Bugbounty Hunter from Bangladesh:bangladesh:
-<img hight="200" width="350" alt="GIF" align="right" src="https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
+<img hight="200" width="350" alt="GIF" align="right" src="https://github.com/imtiazsec/imtiazsec/blob/main/wrench%20watchdog.gif">
 
 ### - Learning :
 - ✨ Bug Bounty Hunting
@@ -30,12 +30,12 @@
 
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
 </br>
-<a href="https://twitter.com/0ximtiaz/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
-<a href="https://github.com/0ximtiaz?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
-<a href="https://instagram.com/0ximtiaz"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
-<a href="https://www.youtube.com/0ximtiaz"><img src="https://img.shields.io/static/v1?label=Youtube&message=%400ximtiaz&color=critical"></a>
-<a href="https://www.linkedin.com/in/0ximtiaz/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
-<a href="https://medium.com/@0ximtiaz"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
+<a href="https://twitter.com/imtiazsec/"><img src="https://img.shields.io/badge/twitter-%400ximtiaz-blue.svg"></a>
+<a href="https://github.com/imtiazsec?tab=followers"><img src="https://img.shields.io/badge/github-%400ximtiaz-orange"></a>
+<a href="https://instagram.com/imtiazsec"><img src="https://img.shields.io/badge/instagram-%400ximtiaz-yellow"></a>
+<a href="https://www.youtube.com/imtiazsec"><img src="https://img.shields.io/static/v1?label=Youtube&message=%400ximtiaz&color=critical"></a>
+<a href="https://www.linkedin.com/in/imtiazsec/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%400ximtiaz&color=blueviolet"></a>
+<a href="https://medium.com/@imtiazsec"><img src="https://img.shields.io/static/v1?label=Medium&message=%400ximtiaz&color=ff69b4"></a>
 </br>
 
 ## 💰 Support :
@@ -46,13 +46,13 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0ximtiaz&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imtiazsec&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazsec&theme=tokyonight" />
 </p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=0ximtiaz&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=imtiazsec&theme=github)
 
-<img src="https://github-profile-trophy.vercel.app/?username=0ximtiaz&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=imtiazsec&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 <!--START_SECTION:waka-->
 
