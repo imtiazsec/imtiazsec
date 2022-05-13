@@ -12,4 +12,5 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ## ⚡️ A Few Quick Facts
 
 - 📝 I write technical blogs and articles
+- 🛠 Passionate with problem solving and daily routines automation.
 - ⚡ Fun fact: I love meeting new people and eating food!
