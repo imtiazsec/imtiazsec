@@ -2,6 +2,7 @@
 </h1>
 
 ### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=github&link=https://github.com/imtiazsec/)](https://github.com/imtiazsec/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/imtiazsec/)](https://github.com/imtiazsec/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imtiazsec/)](https://www.linkedin.com/in/imtiazsec)
 
