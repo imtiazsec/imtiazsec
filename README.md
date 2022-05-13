@@ -9,9 +9,10 @@
 ### I'm 20 years old, Security Enthusiast and Bug bounty Hunter from Bangladesh.
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I like to use a variety of useful computer software & making scripts in bash to automate processes. I also like watching anime, and gaming. I used to dream of being a gamer. But the reality made me have to learn a technology computer, and I also came into contact with Hacking. Although I was not interested in it at the beginning, luckily I slowly fell in love with it.
 
-<img align="right" width=400 src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+
 <h2>⚡️ A Few Quick Facts</h2>
 
+<img align="right" width=400 src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
 - 🔭 I’m currently working on <strong>cyber security & cloud stuff</strong>.
 - 📝 I write technical blogs and articles.
 - 🛠 Passionate with problem solving and daily routines automation.
