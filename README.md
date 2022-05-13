@@ -34,7 +34,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
       <img align="left" width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=330 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
