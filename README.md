@@ -17,4 +17,5 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 Passionate with problem solving and daily routines automation.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/imtiazsec">Github</a>.
 - 💬 Ask me about anything, i am happy to help.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imtiazsec/)
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking.
