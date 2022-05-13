@@ -2,7 +2,7 @@
 </h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=github&link=https://github.com/imtiazsec/)](https://github.com/imtiazsec/)
+[![Github Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=https://github.com/imtiazsec/)](https://twitter.com/imtiazsec/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/imtiazsec/)](https://github.com/imtiazsec/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imtiazsec/)](https://www.linkedin.com/in/imtiazsec)
 
@@ -17,18 +17,11 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi
 - 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
 ### 🚀 Quick Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=imtiazsec&show_icons=true&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=imtiazsec)
