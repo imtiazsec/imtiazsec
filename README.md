@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### ⚡️ A Few Quick Facts
 
-<img align="right" width=400 src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<img align="right" width=400 src="https://camo.githubusercontent.com/18ae9809d7ae8a378be4c3701b7fd4cbb427619a66f72398bda0dbde21e148a8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f39423877597a74416f65317a4f2f736f757263652e676966" />
 
 - 🔭 I’m currently working on **hackerone.**
 - 🌱 I’m currently learning **security** and **cloud** stuff.
