@@ -12,5 +12,5 @@
 <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>💬 Ask me about anything, I am happy to help</li>
 </ul>
