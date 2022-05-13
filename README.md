@@ -28,6 +28,6 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
 ### 🚀 Quick Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=imtiazsec&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=imtiazsec&show_icons=true&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imtiazsec)
