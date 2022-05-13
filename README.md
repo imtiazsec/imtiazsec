@@ -8,7 +8,7 @@
 
 ### I'm 20 years old, Security Enthusiast and Bug bounty Hunter from Bangladesh.
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+#### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I like to use a variety of useful computer software & making scripts in bash to automate processes. I also like watching anime, and gaming. I used to dream of being a gamer. But the reality made me have to learn a technology computer, and I also came into contact with Hacking. Although I was not interested in it at the beginning, luckily I slowly fell in love with it.
 
 - ⚡ Fun fact: I love meeting new people and eating food!
