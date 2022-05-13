@@ -12,13 +12,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### ⚡️ A Few Quick Facts
 
-<img align="right" width=450 src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<img align="right" width=400 src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
 
 - 🔭 I’m currently working on **hackerone.**
 - 🌱 I’m currently learning **security** and **cloud** stuff.
-- 📝 I write technical blogs and articles.
 - 🛠 Passionate with problem solving and daily routines automation.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/imtiazsec">Github</a>.
 - 💬 Ask me about anything, i am happy to help.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imtiazsec/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/imtiazsec/)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
