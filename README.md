@@ -11,6 +11,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ## ⚡️ A Few Quick Facts
 
+- 🔭 I’m currently working on <strong>cyber security & cloud stuff</strong>.
 - 📝 I write technical blogs and articles
 - 🛠 Passionate with problem solving and daily routines automation.
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/imtiazsec">Github</a>.
+- 💬 Ask me about anything, i am happy to help.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking.
