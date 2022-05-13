@@ -7,7 +7,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on hackerone.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>🧐 I’m currently learning cyber security.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/imtiazsec">Github</a>.</li>
 <li>💬 Ping me about <strong>security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
