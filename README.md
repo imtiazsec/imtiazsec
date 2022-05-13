@@ -12,4 +12,5 @@
 <li>💬 Ping me about <strong>security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>💬 Ask me about anything, I am happy to help</li>
+<li>📫 How to reach me: murillo_comino@hotmail.com;</li>
 </ul>
