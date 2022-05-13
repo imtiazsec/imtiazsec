@@ -47,8 +47,6 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=imtiazsec&theme=github)
 
-<img src="https://github-profile-trophy.vercel.app/?username=imtiazsec&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
-
 <!--START_SECTION:waka-->
 
 📊 **This week I spent my time on** 
